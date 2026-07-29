@@ -1,20 +1,20 @@
 !DOCTYPE html>
 ‎<html>
 ‎<head>
-‎    <title>Jan Laurence Igot - Personal Profile</title>
+‎    <title>Bernardo C. Jamili - Personal Profile</title>
 ‎</head>
 ‎<body>
 ‎
-‎    <h1>Jan Laurence Igot</h1>
+‎    <h>Bernardo C. Jamili</h1>
 ‎
 ‎    <h2>Personal Information</h2>
 ‎    <p>
-‎        My name is <b>Jan Laurence Igot</b>.<br>
+‎        My name is <b>Bernardo C. Jamili</b>.<br>
 ‎        I am a <b>Grade 11 ICT Student</b>.<br>
 ‎        I enjoy learning programming and improving my computer skills every day.
 ‎    </p>
 ‎  
-  <img src="a3cda980-d5c3-46c0-9ae6-7ce28dd5495e.jpeg"
+  <img src=".jpeg"
   
     alt="My Profile Picture"
 ‎   
@@ -49,7 +49,7 @@
 ‎    </ul>
 
     <video controls width="400">
-<source src="July 20, 2026.mp4" type "video/mp4">
+<source src="/mp4">
 </video>
              <p></p>
 ‎  
